@@ -261,7 +261,7 @@ footer {
 			border-bottom: 1px solid gray;
 		}
 
-		.middlesection1, .middlesection3{
+		.middlesection1, .middlesection3, .two-column-boxes{
 			flex-direction: column;
 			
 		}
